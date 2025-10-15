@@ -1,0 +1,17 @@
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+.env
+
+# Build folders (if not needed)
+build/
+dist/
+
+# Git
+.git
+.gitignore
+
+# IDE files
+.vscode/
+.idea/
